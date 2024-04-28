@@ -1,2 +1,2 @@
 # Simplex
-Algoritmo dpo Simplex implementado em Python
+Algoritmo do Simplex implementado em Python
